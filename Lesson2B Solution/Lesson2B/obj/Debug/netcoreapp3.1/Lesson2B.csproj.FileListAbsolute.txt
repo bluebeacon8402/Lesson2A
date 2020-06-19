@@ -1,0 +1,13 @@
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\bin\Debug\netcoreapp3.1\Lesson2B.exe
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\bin\Debug\netcoreapp3.1\Lesson2B.deps.json
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\bin\Debug\netcoreapp3.1\Lesson2B.runtimeconfig.json
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\bin\Debug\netcoreapp3.1\Lesson2B.runtimeconfig.dev.json
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\bin\Debug\netcoreapp3.1\Lesson2B.dll
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\bin\Debug\netcoreapp3.1\Lesson2B.pdb
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\obj\Debug\netcoreapp3.1\Lesson2B.csprojAssemblyReference.cache
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\obj\Debug\netcoreapp3.1\Lesson2B.AssemblyInfoInputs.cache
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\obj\Debug\netcoreapp3.1\Lesson2B.AssemblyInfo.cs
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\obj\Debug\netcoreapp3.1\Lesson2B.csproj.CoreCompileInputs.cache
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\obj\Debug\netcoreapp3.1\Lesson2B.dll
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\obj\Debug\netcoreapp3.1\Lesson2B.pdb
+C:\Users\Anthe\Desktop\TrueCoders\Lesson2\Lesson2B Solution\Lesson2B\obj\Debug\netcoreapp3.1\Lesson2B.genruntimeconfig.cache
